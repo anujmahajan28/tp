@@ -1,44 +1,34 @@
- Subject: Weekly Update: May 26 – May 31
+ Description
 
-Hello @REBBALA Chandrasekhar,
-
-I hope you are doing well.
-
-Please find below my weekly update for the period May 26 – May 31:
+When editing a Facility’s fields during the decision phase and navigating away (specifically to Legal Entities) without saving, the user is redirected without any warning. This can lead to data loss due to the absence of a confirmation popup.
 
 ⸻
 
-1. Playwright Setup & Test Implementation
-	•	Successfully resolved Playwright setup issues and initiated implementation of sample test scripts.
-	•	Gained clarity on Playwright locators including XPath, CSS selectors, and their use in automation testing.
-	•	Started the Playwright test process and executed basic automation flows.
+Steps to Reproduce
 
-2. Test Execution on UAT
-	•	Continued executing test cases on the UAT environment, focusing on edge cases and error-handling scenarios.
-	•	Faced intermittent UAT environment downtime, which caused partial blocking of new request creation and validation steps.
+Given I create a new Request
+And I add BG and LE
+And I add a Facility
+And I submit to Credit Committee and the decision process starts
+And I am on the Decision page
 
-3. Jira Workflow Familiarization
-	•	Explored and understood Jira ticket statuses such as QA Rejected, UAT Passed, UAT Failed, On Hold, and their impact on ticket flow and resolution timelines.
-	•	Analyzed ticket lifecycle to enhance understanding of issue triaging and closure protocols.
+When I navigate to the Facility Summary
+And I click the arrow to expand and edit Facility fields
+And I make changes but do not click the Save button
+And I directly click on “Legal Entities” from the left menu
 
-4. SQL Practice & Backend Understanding
-	•	Practiced writing SQL queries for:
-	•	Filtering and extracting relevant data.
-	•	Performing table joins for consolidated views.
-	•	Sorting and validating output for accuracy.
-	•	Documented learning in a personal tracker, capturing query patterns, use cases, and key observations for future reference.
-
-5. Practice Documentation & Workflow Rehearsals
-	•	Updated my practice sheet to include:
-	•	Modules covered.
-	•	Challenges faced.
-	•	Knowledge transfer (KT) learnings.
-	•	Tools and utilities explored.
-	•	Maintained consistency in daily rehearsals of workflows to improve test coverage, reduce manual errors, and build accuracy.
+Then I am redirected to the Legal Entities section without any warning popup
 
 ⸻
 
-Please let me know if there are any specific areas or tasks you would like me to prioritize for the coming week.
+Expected Result
 
-Best regards,
-MAHAJAN Anuj
+When navigating away from edited (but unsaved) Facility fields to another section (like Legal Entities), a popup should appear saying:
+“Do you really want to exit without saving?”
+This confirmation should offer options like Stay on Page / Leave Page.
+
+⸻
+
+Actual Result
+
+User is redirected to the Legal Entities section directly, without any warning, resulting in potential loss of unsaved data.
