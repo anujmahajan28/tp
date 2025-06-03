@@ -32,3 +32,6 @@ This confirmation should offer options like Stay on Page / Leave Page.
 Actual Result
 
 User is redirected to the Legal Entities section directly, without any warning, resulting in potential loss of unsaved data.
+
+
+![image](https://github.com/user-attachments/assets/12a67d1a-e853-4365-9659-fbe97b20368c)
