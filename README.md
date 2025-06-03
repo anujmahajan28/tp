@@ -35,3 +35,39 @@ User is redirected to the Legal Entities section directly, without any warning, 
 
 
 ![image](https://github.com/user-attachments/assets/12a67d1a-e853-4365-9659-fbe97b20368c)
+
+
+Title
+
+Intrinsic Rating not displayed in Proposed section when Rating Model is set for 2nd Legal Entity
+
+⸻
+
+Description
+
+When editing the 2nd Legal Entity (LE) that already has a value for Current Intrinsic Rating, and assigning the Rating Model - Large Corporates, the Intrinsic Rating field should display the current intrinsic rating value as read-only under the Proposed section. However, the value is not displayed.
+
+⸻
+
+Steps to Reproduce
+
+Given the 2nd Legal Entity (LE) has a value set for Current Intrinsic Rating
+When I navigate to the 2nd LE section
+And I click on the Edit button
+And I add/select Rating Model - Large Corporates
+Then I validate the Intrinsic Rating field in the Proposed section
+
+⸻
+
+Expected Result
+
+The Intrinsic Rating field should display the Current Intrinsic Rating value in a read-only format under the Proposed section.
+
+⸻
+
+Actual Result
+
+The Intrinsic Rating field is not displayed at all in the Proposed section, despite the 2nd LE having a value for Current Intrinsic Rating.
+
+
+Intrinsic Rating not displayed in Proposed section when Rating Model is set for 2nd Legal Entity
