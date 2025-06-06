@@ -16,3 +16,6 @@ And I have clicked the "Create Request" button
 And I see the popup with the "Main Originating Site" dropdown  
 When I click on the "Main Originating Site" dropdown  
 Then the originating site I have read-only access to is not visible in the list  
+
+
+https://www.figma.com/files/team/1336177960749114040/recents-and-sharing?fuid=1336177955794246988
