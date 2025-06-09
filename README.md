@@ -1,59 +1,17 @@
-Absolutely! Below are 4 separate Gherkin scenarios, each focused on a single, clear action. This aligns with best practices and review expectations for modular, testable cases.
+Subject: Request for Guidance – Intern ISPL Session Marked as “No Show”
 
-⸻
+Dear [Recipient’s Name/HR Team],
 
-✅ Scenario 1: Navigate to Stakeholders Section
+Good morning.
 
-Feature: Navigate to Stakeholders Section
+I hope this message finds you well.
 
-Scenario: Open the Stakeholders section from the left-side menu
+I would like to bring to your attention that my attendance status for the Intern ISPL session has been marked as “No Show.” I was unable to attend the session as I was on approved leave due to university examinations on that day.
 
-  Given I have successfully created a new request
-  And I am on the Request details page
-  When I click on the "Stakeholders" option from the left-side menu
-  Then the Stakeholders page is displayed
+I kindly request your guidance on whether there is any provision available to complete the missed session. Additionally, if a recording of the session is available, I would be grateful if you could share it with me.
 
+Thank you for your understanding and support. Please let me know if any further information is required from my end.
 
-⸻
-
-✅ Scenario 2: Click on ‘User or Team’ Input Field
-
-Feature: Stakeholder Entry
-
-Scenario: Click on the 'User or Team' input field
-
-  Given I am on the "Stakeholders" page of a request
-  When I click on the "User or Team" input field
-  Then the field becomes active and ready for input
-
-
-⸻
-
-✅ Scenario 3: Enter Team Name Prefix
-
-Feature: Stakeholder Search
-
-Scenario: Enter the first few characters of a team name
-
-  Given I am on the "Stakeholders" page of a request
-  And the "User or Team" input field is active
-  When I enter the first few characters of a team name (e.g., "CTM")
-  Then a list of matching teams is displayed below the input field
-
-
-⸻
-
-✅ Scenario 4: Select Team from Suggestions
-
-Feature: Stakeholder Selection
-
-Scenario: Select a team from the list of suggestions
-
-  Given a list of teams is displayed after entering partial team name
-  When I select one or more teams from the suggestion list
-  Then the selected team(s) are displayed under the input field with a cross (×) icon
-
-
-⸻
-
-Let me know if you want to combine them into a single end-to-end flow, or convert them into a test suite structure (e.g., for Xray or JIRA).
+Warm regards,
+Anuj Mahajan
+Intern – BNP Paribas ISPL
