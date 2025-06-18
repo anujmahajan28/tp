@@ -1,9 +1,9 @@
-Objective
+✅ Objective
 
-To verify that the request creator is automatically added as a default stakeholder with correct default values such as Name, Position, Point of Contact, and Notification.
+To verify that when a new stakeholder is added, all fields are initialized with correct default values and button states.
 
 ⸻
 
 ✅ Jira Summary
 
-[Stakeholders] Creator is auto-added as default stakeholder with predefined values
+[Stakeholders] Default values and button states when adding a new stakeholder
