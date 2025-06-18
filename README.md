@@ -1,9 +1,9 @@
-✅ Objective:
+Objective:
 
-To verify that username suggestions are displayed when the user enters at least three characters in the “User or Team” field on the Stakeholders page.
+To verify that upon selecting a username from the suggested options, the username is displayed correctly, relevant buttons are updated, and a confirmation message is shown.
 
 ⸻
 
 ✅ JIRA Summary:
 
-Username suggestions should appear after entering 3 characters on Stakeholders page.
+Username selection displays selected user and updates confirmation message and buttons.
