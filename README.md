@@ -1,9 +1,9 @@
-✅ Objective
+✅ Objective:
 
-To verify that when a user enters at least 3 characters in the “User or Team” field, relevant username or team suggestions are displayed for selection.
+To verify that username suggestions are displayed when the user enters at least three characters in the “User or Team” field on the Stakeholders page.
 
 ⸻
 
-✅ Jira Summary
+✅ JIRA Summary:
 
-[Stakeholders] Suggestion list appears after entering 3 characters in User/Team field
+Username suggestions should appear after entering 3 characters on Stakeholders page.
