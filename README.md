@@ -31,3 +31,13 @@ After confirming the warning, any subsequent pop-up or modal should appear prope
 ✅ Actual Result:
 
 The next pop-up appears misaligned (as seen in the attached screenshot), affecting the UI layout.
+
+
+New bug found
+Given I create request 
+And i am on Facilities page
+And i click on Import facility 
+And without taking any type of entry i click on import
+And pop up is displayed with warning 
+When i click on ok for warning 
+Then the next pop up is displayed miss aligned
