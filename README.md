@@ -1,29 +1,24 @@
+-- Display the structure of the Departments table
+DESC Departments;
 
-[CONTRACT] [Facilities] “Create Facility” option missing after contract creation
+-- Select all rows from the Departments table
+SELECT * FROM Departments;
 
-⸻
+-- Display the structure of the Employees table
+DESC Employees;
 
-📝 Description
+-- SQL query to retrieve specific columns from Employees table
+SELECT employee_id, first_name, last_name, job_id, hire_date, department_id, salary 
+FROM Employees;
 
-After creating a new contract and navigating to the Facilities section, the “Create Facility” option is not visible. This prevents users from adding new facilities under the contract, which breaks the expected workflow.
 
-⸻
+SELECT DISTINCT department_id, job_id 
+FROM Employees;
 
-🔁 Steps to Reproduce
-	1.	Login to the application with a user having appropriate permissions.
-	2.	Go to the Contract module.
-	3.	Click “Create Contract” and fill in the required fields.
-	4.	Save the contract.
-	5.	Navigate to the Facilities section under the newly created contract.
 
-⸻
-
-✅ Expected Result
-
-The “Create Facility” button or option should be visible and enabled to allow the user to add a new facility.
-
-⸻
-
-❌ Actual Result
-
-The “Create Facility” option is not displayed, preventing the addition of facilities.
+SELECT 
+    last_name || ' - ' || job_id AS Employees,
+    job_id,
+    salary,
+    ((salary + 500) * 12) AS "Annual Compensation"
+FROM Employees;
