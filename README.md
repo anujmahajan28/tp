@@ -1,5 +1,29 @@
-Hi Ashish,
-I had a call yesterday with Jaya regarding the Playwright flows and process.
-I’ve already gone through the workflows and explored the features, including how tokens are passed.
-I had asked Jaya to practice the flows, but I couldn’t directly access the app myself.
-So, I explored it on my own, and today he has scheduled a call for a KT session on the flows and how the test cases actually work in Playwright.
+
+[CONTRACT] [Facilities] “Create Facility” option missing after contract creation
+
+⸻
+
+📝 Description
+
+After creating a new contract and navigating to the Facilities section, the “Create Facility” option is not visible. This prevents users from adding new facilities under the contract, which breaks the expected workflow.
+
+⸻
+
+🔁 Steps to Reproduce
+	1.	Login to the application with a user having appropriate permissions.
+	2.	Go to the Contract module.
+	3.	Click “Create Contract” and fill in the required fields.
+	4.	Save the contract.
+	5.	Navigate to the Facilities section under the newly created contract.
+
+⸻
+
+✅ Expected Result
+
+The “Create Facility” button or option should be visible and enabled to allow the user to add a new facility.
+
+⸻
+
+❌ Actual Result
+
+The “Create Facility” option is not displayed, preventing the addition of facilities.
