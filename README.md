@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f5166788-fb48-4789-8814-363ee2395d59)
-![image](https://github.com/user-attachments/assets/f5166788-fb48-4789-8814-363ee2395d59)
-![Uploading image.jpeg…]()
-![Uploading image.jpeg…]()
+Hi Ashish,
+I have gone through all the JavaScript basics you shared and have been practicing them as well.
+Could you please share some more concepts, especially from an interview point of view?
