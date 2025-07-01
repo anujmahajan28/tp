@@ -1,3 +1,1 @@
-Hi Ashish,
-I have gone through all the JavaScript basics you shared and have been practicing them as well.
-Could you please share some more concepts, especially from an interview point of view?
+Worked on implementing a Playwright test case for Request Creation from the dashboard, including feature file, steps, page object, and locators.
