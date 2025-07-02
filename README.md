@@ -1,2 +1,1 @@
-Hi this chat is only for the automation i want to perform just a simple test case to show my progress on playwright automation 
-So i will provide you all codes present and the next want to written in same way also you knows the mca application now very well
+Had a detailed session with G. Hayavardha to understand how Playwright test flows are structured and executed. Also learned how to inspect elements effectively using different types of locators.
