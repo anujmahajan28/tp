@@ -31,6 +31,7 @@ Day 2 Stand-up (e.g., Saturday morning):
  * Any blockers: "No blockers at the moment. I'll focus on understanding the more complex topics today."
 Remember to adjust the details based on your actual progress and any challenges you encounter.
 
+![image](https://github.com/user-attachments/assets/52504e63-99fc-4160-a250-901abb395e5b)
 
 
 Hi Team, I won’t be able to join today’s call as I have an HR connect scheduled around the same time.
