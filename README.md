@@ -34,4 +34,4 @@ Remember to adjust the details based on your actual progress and any challenges 
 ![image](https://github.com/user-attachments/assets/52504e63-99fc-4160-a250-901abb395e5b)
 
 
-Hi Team, I won’t be able to join today’s call as I have an HR connect scheduled around the same time.
+I’ve started with the basics—focusing on core recommended locators like getByRole, getByText, and getByLabel. I’m also learning how Playwright handles dynamic elements with auto-wait and retry logic. I’ve planned to finish this documentation in 2 days, with hands-on practice to better understand their usage.
