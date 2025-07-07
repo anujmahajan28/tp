@@ -31,7 +31,7 @@ Day 2 Stand-up (e.g., Saturday morning):
  * Any blockers: "No blockers at the moment. I'll focus on understanding the more complex topics today."
 Remember to adjust the details based on your actual progress and any challenges you encounter.
 
-![image](https://github.com/user-attachments/assets/52504e63-99fc-4160-a250-901abb395e5b)
+
 
 
 I’ve started with the basics—focusing on core recommended locators like getByRole, getByText, and getByLabel. I’m also learning how Playwright handles dynamic elements with auto-wait and retry logic. I’ve planned to finish this documentation in 2 days, with hands-on practice to better understand their usage.
