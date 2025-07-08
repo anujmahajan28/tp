@@ -32,6 +32,6 @@ Day 2 Stand-up (e.g., Saturday morning):
 Remember to adjust the details based on your actual progress and any challenges you encounter.
 
 
-
+=IF(AND(ISNUMBER(D2), ISNUMBER(E2)), E2 - D2, "")
 
 I’ve started with the basics—focusing on core recommended locators like getByRole, getByText, and getByLabel. I’m also learning how Playwright handles dynamic elements with auto-wait and retry logic. I’ve planned to finish this documentation in 2 days, with hands-on practice to better understand their usage.
