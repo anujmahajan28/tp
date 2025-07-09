@@ -31,7 +31,7 @@ Day 2 Stand-up (e.g., Saturday morning):
  * Any blockers: "No blockers at the moment. I'll focus on understanding the more complex topics today."
 Remember to adjust the details based on your actual progress and any challenges you encounter.
 
-
+Today, I watched the remaining part of the JavaScript video, starting from Closures. It covered closures, callback functions, higher-order functions, pure functions, IIFEs, and recursion. I also continued working on the NRT cases and have almost completed them.
 =IF(AND(ISNUMBER(D2), ISNUMBER(E2)), E2 - D2, "")
 
 I’ve started with the basics—focusing on core recommended locators like getByRole, getByText, and getByLabel. I’m also learning how Playwright handles dynamic elements with auto-wait and retry logic. I’ve planned to finish this documentation in 2 days, with hands-on practice to better understand their usage.
