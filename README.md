@@ -37,3 +37,35 @@ Today, I watched the remaining part of the JavaScript video, starting from Closu
 I’ve started with the basics—focusing on core recommended locators like getByRole, getByText, and getByLabel. I’m also learning how Playwright handles dynamic elements with auto-wait and retry logic. I’ve planned to finish this documentation in 2 days, with hands-on practice to better understand their usage.
 
 <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/bffe75d0-0bcd-4ef4-9a75-4d793403c60a" />
+
+
+🐞 Bug Title
+
+[GREENLIGHT] [Auto Approval] Greenlight not auto-approved after reaching auto approval date when Informal
+
+⸻
+
+📝 Description
+
+In a Greenlight request where the Greenlight status is Submitted and marked as Informal, once the configured auto-approval date is reached, the system does not auto-approve the Greenlight as expected. This causes the workflow to remain stuck at the submitted stage.
+
+⸻
+
+🔁 Steps to Reproduce
+	1.	Create a Greenlight Request and fill in required details.
+	2.	Ensure the Greenlight status is set to Submitted.
+	3.	Set the Greenlight Formal/Informal field to Informal.
+	4.	Wait until the auto-approval date is reached.
+	5.	Check the status of the Greenlight.
+
+⸻
+
+✅ Expected Result
+
+Once the auto-approval date is reached, the Greenlight should automatically transition to Approved, especially for Informal requests.
+
+⸻
+
+❌ Actual Result
+
+The Greenlight remains in Submitted status, and does not get auto-approved, even after the auto-approval date is reached.
