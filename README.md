@@ -69,3 +69,22 @@ Once the auto-approval date is reached, the Greenlight should automatically tran
 ❌ Actual Result
 
 The Greenlight remains in Submitted status, and does not get auto-approved, even after the auto-approval date is reached.
+
+
+Also verified if the cases are properly aligned with the test case design rules, and planned updates if any further changes are needed.
+
+🔹 Tempo Log Update 1 – E2ECC-64072
+Time: 4h
+Task: Sanity – Facilities
+Performed high-level sanity for Facility/Sublimit types (New, Renewal, etc.).
+Validated field details, error highlights, copy-to-proposed, and summary updates.
+Tested duplication, deletion, rearrangement, and submit validations.
+
+⸻
+
+🔹 Tempo Log Update 2 – EZECC-61047
+Time: 3h
+Task: Sanity – Compliance
+Tested compliance tab visibility based on request type.
+Validated section-wise data entry, edit, signature actions, and signing flow.
+Checked “Back to Draft” and conditional field behaviors.
