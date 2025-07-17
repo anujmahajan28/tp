@@ -88,3 +88,6 @@ Task: Sanity – Compliance
 Tested compliance tab visibility based on request type.
 Validated section-wise data entry, edit, signature actions, and signing flow.
 Checked “Back to Draft” and conditional field behaviors.
+
+
+Then I check that creator of request is by default added as stakeholder and their details displayed in the “Stakeholder” fields
