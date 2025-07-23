@@ -93,9 +93,12 @@ Checked “Back to Draft” and conditional field behaviors.
 Then I check that creator of request is by default added as stakeholder and their details displayed in the “Stakeholder” fields
 
 
-Hi [Name],
-Good morning!
-Just to inform you, I don’t have any planned leaves between 28th July and 14th August.
-If anything comes up, I’ll make sure to update you in advance.
+Hi [Manager’s Name],
+Just wanted to inform you that I have training scheduled on the following dates:
+	•	24th July – 10:00 AM to 6:00 PM
+	•	25th July – 10:00 AM to 6:00 PM
+	•	1st August – 10:00 AM to 6:00 PM
+
+Please let me know if anything is required from my side in advance.
 
 Thanks!
