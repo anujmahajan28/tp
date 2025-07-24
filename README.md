@@ -102,3 +102,7 @@ Just wanted to inform you that I have training scheduled on the following dates:
 Please let me know if anything is required from my side in advance.
 
 Thanks!
+
+
+Hi Team,
+I will be in training sessions on 24th and 25th July (full day), so I will be unavailable. Thanks.
