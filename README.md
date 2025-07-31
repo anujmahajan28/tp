@@ -103,5 +103,4 @@ Please let me know if anything is required from my side in advance.
 
 Thanks!
 
-Hi, I’m currently unavailable today due to scheduled engagements. For urgent matters, please reach out to RANE Nikhil.
-Hi, I will be away from work today and might not be able to respond promptly. For any urgent matters, please reach out to RANE Nikhil.
+Thank you for reaching out. I will be unavailable today due to a full-day scheduled training and may not be able to respond promptly. For any urgent matters, please contact RANE Nikhil.
