@@ -105,4 +105,4 @@ Thanks!
 
 Thank you for reaching out. I will be unavailable today due to a full-day scheduled training and may not be able to respond promptly. For any urgent matters, please contact RANE Nikhil.
 
-I will be unavailable for the morning due to a scheduled meeting and will respond to messages after 12:00 PM.
+I’m currently in an in-person meeting and will get back to you after 12:00 PM upon my return. Thank you for your patience.
