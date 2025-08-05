@@ -104,3 +104,5 @@ Please let me know if anything is required from my side in advance.
 Thanks!
 
 Thank you for reaching out. I will be unavailable today due to a full-day scheduled training and may not be able to respond promptly. For any urgent matters, please contact RANE Nikhil.
+
+I will be unavailable for the morning due to a scheduled meeting and will respond to messages after 12:00 PM.
