@@ -105,3 +105,33 @@ Thanks!
 
 Thank you for reaching out. I will be unavailable today due to a full-day scheduled training and may not be able to respond promptly. For any urgent matters, please contact RANE Nikhil.
 Hi team, I’m currently attending an in-person meeting and will be unavailable until 12:00 PM. I’ll get back to you upon my return. Thank you for your understanding.
+
+
+✅ Summary:
+
+Verify visibility of the “For Decision” toggle on the Legal Entities page immediately after creating a new request, without adding any legal entity.
+
+⸻
+
+🎯 Objective:
+
+To ensure the “For Decision” toggle is available on the Legal Entities page even when no legal entities are added.
+
+⸻
+
+🔁 Steps to Reproduce:
+	1.	Given I created a new Request
+	2.	When I navigate to the Legal Entities section
+	3.	Then I check the presence of the “For Decision” toggle
+
+⸻
+
+✅ Expected Result:
+
+The “For Decision” toggle should not be visible until at least one legal entity is added.
+
+⸻
+
+❌ Actual Result:
+
+The “For Decision” toggle is visible even when no legal entity has been added.
