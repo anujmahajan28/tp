@@ -104,5 +104,4 @@ Please let me know if anything is required from my side in advance.
 Thanks!
 
 Thank you for reaching out. I will be unavailable today due to a full-day scheduled training and may not be able to respond promptly. For any urgent matters, please contact RANE Nikhil.
-
-I’m currently in an in-person meeting and will get back to you after 12:00 PM upon my return. Thank you for your patience.
+Hi team, I’m currently attending an in-person meeting and will be unavailable until 12:00 PM. I’ll get back to you upon my return. Thank you for your understanding.
