@@ -135,3 +135,19 @@ The “For Decision” toggle should not be visible until at least one legal ent
 ❌ Actual Result:
 
 The “For Decision” toggle is visible even when no legal entity has been added.
+
+
+Subject: Correction Required for Training Attendance – Selenium & BDD (24/07/2025)
+
+Dear [Recipient Name/HR/Training Team],
+
+I hope you are doing well.
+
+I noticed that my training record for “Selenium & BDD” (24/07/2025, 10:00 AM) is showing as “No Show”, even though I had accepted the invitation and attended the session.
+
+Could you please review and update the attendance status in the system to reflect my participation? I can provide any additional details or confirmation if required.
+
+Thank you for your assistance.
+
+Kind regards,
+Anuj Mahajan
