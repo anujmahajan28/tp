@@ -153,17 +153,18 @@ Kind regards,
 Anuj Mahajan
 
 
-Subject: Request for Reconsideration – Training Attendance for Selenium & BDD (24–25 July 2025)**
+
+Subject: Request to Review Training Attendance for 24–25 July 2025
 
 Dear [Recipient Name],
 
-Thank you for sharing the login details.
+Thank you for sending the login details.
 
-I understand that the attendance is calculated based on the overall duration for both days. On 24th July, I joined at 11:25 AM, and on 25th July, I joined at 1:26 PM. The late joining on these days was due to an unforeseen urgent task that required immediate resolution to avoid impacting project timelines.
+I see that attendance is based on the total time logged in for both days. On 24th July, I joined at 11:25 AM, and on 25th July, I joined at 1:26 PM because I had an urgent task that needed my immediate attention to avoid delays in the project.
 
-Despite this, I actively participated in the remaining sessions and ensured I covered the training content in full. I kindly request if it would be possible to review and update my attendance record to reflect my participation. I assure you that such a situation will not occur in future trainings, and I will ensure full attendance.
+Even with the late start, I attended the rest of the training sessions and made sure to cover all the material. I kindly ask if you could reconsider my attendance record to reflect my participation. I promise this won’t happen again, and I’ll make sure to attend fully in future trainings.
 
-I appreciate your understanding and support in resolving this matter.
+Thanks for your understanding and help.
 
-Kind regards,
+Best,
 Anuj Mahajan
