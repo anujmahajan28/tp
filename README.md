@@ -172,3 +172,6 @@ Anuj Mahajan
 ![image](https://github.com/user-attachments/assets/11c809ea-3a9a-4fdf-ae2c-43ae9855449e)
 
 Hello, I am engaged in onboarding formalities today and may not be able to respond promptly. Please expect a delay in my response. For any urgent queries, kindly reach out to REBBALA Chandrasekhar or CHOUDHARY Ashish. Thank you.
+
+
+Thank you for the warm welcome and constant guidance. I’m glad to be part of BNPP and truly appreciate your support. I will make sure to give my best, take ownership of my responsibilities, and perform as per expectations.
