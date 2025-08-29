@@ -175,3 +175,12 @@ Hello, I am engaged in onboarding formalities today and may not be able to respo
 
 
 Thank you for the warm welcome and constant guidance. I’m glad to be part of BNPP and truly appreciate your support. I will make sure to give my best, take ownership of my responsibilities, and perform as per expectations.
+
+Subject: Validation of Code of Conduct and Golden Rules
+
+Hi Ashish,
+
+I confirm that I have received, read, and understood the Code of Conduct and Golden Rules documents. I acknowledge their importance and will adhere to the guidelines as part of my responsibilities in the team.
+
+Regards,
+Anuj Mahajan
