@@ -186,6 +186,4 @@ Regards,
 Anuj Mahajan
 
 
-As an Associate Test Engineer, I have been involved in designing and refining test scenarios, ensuring clarity, precision, and end-to-end coverage across different processes. I have contributed to test execution, reporting, and documentation activities, supporting the delivery of reliable outcomes. Alongside this, I have gained exposure to automation tools and scripting, which has strengthened my understanding of how efficiency and accuracy can be enhanced within testing.
-
-My key strengths include analytical thinking, adaptability, and collaboration, enabling me to contribute effectively to quality assurance and continuous improvement within the Group.
+I am contributing as an Associate Test Engineer by designing and refining test scenarios, ensuring accuracy, clarity, and comprehensive coverage. I am involved in test execution, reporting, and documentation, while also gaining exposure to automation practices that improve efficiency. My strengths include analytical thinking, adaptability, and collaboration, enabling me to support quality delivery and continuous improvement within the Group.
