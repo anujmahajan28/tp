@@ -187,3 +187,13 @@ Anuj Mahajan
 
 
 I am contributing as an Associate Test Engineer by designing and refining test scenarios, ensuring accuracy, clarity, and comprehensive coverage. I am involved in test execution, reporting, and documentation, while also gaining exposure to automation practices that improve efficiency. My strengths include analytical thinking, adaptability, and collaboration, enabling me to support quality delivery and continuous improvement within the Group.
+
+
+Description:
+After adding a new stakeholder with all required fields, the position is not updated when going to Results and back to Stakeholders.
+
+Expected Result:
+Stakeholder position should show correctly after coming back.
+
+Actual Result:
+Stakeholder position still shows wrong / not updated.
