@@ -197,3 +197,13 @@ Stakeholder position should show correctly after coming back.
 
 Actual Result:
 Stakeholder position still shows wrong / not updated.
+
+
+Subject: Leave Notification for Monday
+
+Dear [Manager’s Name],
+
+I would like to inform you that I will be on leave on Monday, [insert date] as I need to visit my college to collect my Leaving Certificate (LC) and Provisional Degree (PD) certificate, which are required for my background check.
+
+Kind regards,
+Anuj
