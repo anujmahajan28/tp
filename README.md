@@ -207,3 +207,4 @@ I would like to inform you that I will be on leave on Monday, [insert date] as I
 
 Kind regards,
 Anuj
+Vivan Sankhe’s journey reflects steady growth in technology and innovation. Beginning with strong academics, he pursued Computer Science at MIT-WPU, maintaining a solid CGPA. Early internships at Elite Technosys gave him hands-on experience in data analysis, engineering, and full-stack development. Later, at Tata Steel, he applied machine learning to real-world manufacturing challenges, building scalable ML pipelines. His projects span fitness apps, developer platforms, and IoT-based systems, showing versatility across domains. International research at Texas A&M expanded his problem-solving in traffic systems. Beyond academics, he showcased leadership by coordinating HackMIT’23, balancing technical expertise with organizational skills 
