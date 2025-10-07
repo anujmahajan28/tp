@@ -229,3 +229,6 @@ I would like to refer Umesh Barhate as he brings strong Python expertise, databa
 
 
 I would like to refer Sarvesh Shimpi as he has built a strong foundation in Computer Engineering at MIT-WPU with a CPA of 8.34 and valuable hands-on experience. He worked as a Game Development Intern at IIT Gandhinagar, implementing AI and pathfinding algorithms to enhance gameplay efficiency. Sarvesh has demonstrated versatility through impactful projects in machine learning, deep learning, and full-stack development, including a disease prediction website, music generator, and e-commerce platform. His achievements at multiple IIT competitions and a published research paper further highlight his innovation and problem-solving skills, making him a promising candidate for this opportunity.
+
+![Uploading image.png…]()
+
