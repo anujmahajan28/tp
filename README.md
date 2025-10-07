@@ -233,3 +233,95 @@ I would like to refer Sarvesh Shimpi as he has built a strong foundation in Comp
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ed28e81-78b4-4049-843f-7a011bf71d2a" />
 
 ![Uploading image.png…]()
+
+
+Presentation Script — MyCreditApp (Request & Decision Module)
+
+(Duration: ~6 minutes speaking pace)
+
+⸻
+
+(Start – Warm introduction)
+Good morning everyone, I’m Anuj Mahajan, Analyst in the GBIT–ISPL–Credits team, working on the MCA module, which stands for MyCreditApp.
+Today, I’ll be sharing my project experience on the Request & Decision workflow, what the application does, my role in testing, and a small real-world use case to explain how it all comes together.
+
+⸻
+
+(1) What is MyCreditApp?
+MyCreditApp is an internal BNP Paribas application used across 50+ countries for managing corporate credit requests.
+It’s a central platform where different teams collaborate to create, structure, validate, and approve corporate loan proposals.
+In short, it helps standardize how BNP processes credit decisions globally — ensuring accuracy, compliance, and efficiency.
+
+⸻
+
+(2) The Workflow – How it Works
+The module I worked on is called Request & Decision.
+Here’s how it flows:
+	•	The Credit Analyst (CA) creates and structures the credit proposal.
+	•	The Relationship Manager (RM) reviews it and ensures it meets compliance.
+	•	The Senior Credit Officer (SCO) or Delegation Holder (DH) provides the final decision — approve, reject, or return for more info.
+	•	Finally, the Middle Office (CTM) updates the decided data in downstream systems and closes the request.
+
+Every stage is tracked, logged, and linked — ensuring end-to-end traceability.
+
+⸻
+
+(3) Use Case Example – Credit Request for ABC Industries
+Let’s take a simple example to understand this better.
+
+Suppose ABC Industries, one of our corporate clients, requests an increase in their working capital credit limit.
+	1.	The Credit Analyst logs into MyCreditApp, fills out all details like company name, amount, exposure, and collateral.
+	2.	The Relationship Manager receives it for review and validates if all compliance checks are passed.
+	3.	The Senior Credit Officer evaluates the proposal and decides whether to approve or reject.
+	4.	Once approved, the Middle Office records the decision in the downstream system and closes the request.
+
+Now, as a tester, my role was to ensure this exact flow works smoothly — that the data entered at one stage correctly reflects in the next, that user permissions are respected, and that the request lifecycle is consistent from creation to closure.
+
+⸻
+
+(4) My Role – Requirement Understanding & Test Design
+To begin, I focused on requirement understanding — studying each user’s responsibility, the request structure, and how decisions impact other systems.
+
+Next, I worked on test design — breaking large workflows into modular test cases.
+Each case verified small but critical pieces, like request creation, field validations, approval transitions, and decision outcomes.
+
+⸻
+
+(5) Automation with Playwright & Gherkin
+After manual validation, I automated major flows using Playwright.
+Playwright helped us simulate real user actions like login, data entry, and submission, which reduced manual effort and improved accuracy.
+
+We also used Gherkin language for scenario clarity. For example:
+
+
+Scenario: Create and Submit Credit Request
+  Given user logs into MyCreditApp
+  When user fills credit details and submits
+  Then request should be successfully created
+
+
+This format made it easy to communicate test steps with both developers and business teams.
+
+⸻
+
+(6) NRT Execution & Reporting
+We then moved to NRT — Non-Regression Testing, which means ensuring new updates don’t break existing functionalities.
+We ran test suites, logged results in JIRA, and summarized outcomes in Excel dashboards for management review.
+This helped maintain stability across multiple releases.
+
+⸻
+
+(7) Learnings & Outcomes
+This project taught me a lot — technically and professionally.
+	•	I built strong testing and automation skills.
+	•	Understood how financial workflows operate in a global bank.
+	•	Improved collaboration through Agile methodology.
+	•	And most importantly, learned how consistent testing ensures business continuity.
+
+As a result, our automation helped reduce manual testing time and improved overall release quality.
+
+⸻
+
+(End – Wrap Up)
+So, to sum it up — working on MyCreditApp’s Request & Decision module helped me grow from understanding theory in college to applying it in a real corporate environment.
+It was a complete experience — combining technical testing, business understanding, and teamwork.
