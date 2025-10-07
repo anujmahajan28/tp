@@ -241,6 +241,10 @@ Presentation Script — MyCreditApp (Request & Decision Module)
 
 ⸻
 
+Our team developed a solution for structured address data using Python, NLP, and Regex.
+It was a great experience — we worked under pressure, collaborated across roles, and improved our problem-solving and critical thinking skills.
+That hackathon really helped me apply my technical knowledge in a creative, time-bound environment.
+
 (Start – Warm introduction)
 Good morning everyone, I’m Anuj Mahajan, Analyst in the GBIT–ISPL–Credits team, working on the MCA module, which stands for MyCreditApp.
 Today, I’ll be sharing my project experience on the Request & Decision workflow, what the application does, my role in testing, and a small real-world use case to explain how it all comes together.
@@ -320,6 +324,13 @@ This project taught me a lot — technically and professionally.
 
 As a result, our automation helped reduce manual testing time and improved overall release quality.
 
+Along with testing and reporting, our work relied on a strong tech stack.
+We mainly used Playwright, JavaScript, and SQL — supported by JIRA and Excel for test management and reporting.
+	•	Playwright handled the browser automation — simulating real user actions like logging in, creating a request, and validating approval screens.
+	•	JavaScript was the scripting language we used to write our Playwright test cases.
+	•	SQL came in for backend validation — checking if the data entered in the UI was correctly reflected in the database.
+	•	JIRA helped us manage test cycles, track defects, and plan sprint deliverables.
+	•	And Excel was used for summarizing NRT results and sharing daily execution status with the team.
 ⸻
 
 (End – Wrap Up)
