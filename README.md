@@ -323,3 +323,47 @@ Overall, my contribution supported a smoother test process, reduced effort dupli
 
 ![image](https://github.com/user-attachments/assets/f8813990-531f-40e4-b89c-7f194305c8df)
 
+
+
+Good afternoon everyone, My name is Anuj Mahajan working as an Analyst at GBIT Corporate credits in MCA project.
+I’ll be sharing my experience and contribution to the Request Module of MyCreditApp.
+
+This module is one of the key parts of the application. It provides all the functionalities required to create, structure, and decide a corporate credit request. It also connects multiple user roles like the Credit Analyst, Relationship Manager, Senior Credit Officer, and the Middle Office to ensure each credit request moves through the right review and approval stages.
+
+When I started working on this project, my first step was to understand the entire credit workflow — from how a request is initiated to how it’s reviewed, validated, and finally approved.
+This stage was important because it helped me see how data flows across roles and what checkpoints are crucial for validation. Once I had that clarity, I began translating these functional steps into test scenarios that covered both business logic and user interactions.
+
+The next step was test case design.
+Here, my focus was on creating modular and reusable test cases that could be easily maintained and scaled for future releases.
+Each test case was written using Gherkin syntax — Given, When, Then — which helped maintain a clear, behavior-driven format. This structure not only improved readability for manual testers but also ensured our test cases were written in a way that could directly support automation later.
+
+Even I made sure that the cases were aligned with Playwright automation standards. For example, I included selector references, action sequences, and expected outcomes in a way that could be easily converted into Playwright steps by the automation team and saved time during automation handoffs.
+
+Once the design was in place, I worked on optimizing existing manual test cases.
+Many scenarios were repetitive or overlapping, so I streamlined them, removed duplication, and merged related cases where possible. This improved test coverage while keeping the documentation lean and effective.
+
+During every sprint and release, I was actively involved in executing Non-Regression Tests and Sanity checks.
+Each cycle involved validating critical functionalities, logging defects in JIRA, and maintaining detailed reports in Excel for analysis and traceability.
+These reports helped the team identify recurring issues and track how fixes were performing across builds.
+
+Alongside this, I also contributed to streamlining the documentation process.
+We structured the repository in a way that anyone new joining the project could quickly understand the test flow, business logic, and execution order.
+This made our testing process faster and more consistent, especially during tight release timelines.
+
+One thing I particularly enjoyed was how closely this work connected testing with business understanding. Every test scenario reflected an actual use case from the credit lifecycle. It wasn’t just about clicking through screens — it was about ensuring that every approval, validation, and decision aligned with business rules and data accuracy.
+
+Through this project, I got to strengthen both my technical and analytical skills.
+Technically, I worked with tools like Python, SQL, JavaScript, JIRA, and Excel, and learned how they fit into the QA workflow.
+Analytically, I learned how to think beyond pass/fail — to look at why an issue happens, how it affects downstream processes, and how to prevent it in the future.
+
+Working on this module also taught me the value of collaboration. I regularly interacted with developers, automation testers, and product owners to clarify requirements and align priorities. These discussions helped improve our understanding of dependencies and reduced turnaround time during defect resolution.
+
+Looking back, this experience really helped me grow as a tester.
+I became more confident in designing structured, automation-ready test cases, managing test execution efficiently, and ensuring higher accuracy with each release.
+More importantly, it taught me how thoughtful planning and teamwork can make testing not just a checkpoint, but a reliable part of the delivery process.
+
+Overall, working on the Request Module gave me a strong sense of ownership and helped me contribute meaningfully to improving the quality and reliability of MyCreditApp’s credit request process.
+
+Thank you.
+
+We have one person who also has similar experience, so I would like to hand it over to Vishakha to take it further.
