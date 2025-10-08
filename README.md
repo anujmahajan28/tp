@@ -235,104 +235,81 @@ I would like to refer Sarvesh Shimpi as he has built a strong foundation in Comp
 ![Uploading image.png…]()
 
 
-Presentation Script — MyCreditApp (Request & Decision Module)
+Final Presentation Script (Present Tense, with Sanity Testing)
 
-(Duration: ~6 minutes speaking pace)
-
-⸻
-
-Our team developed a solution for structured address data using Python, NLP, and Regex.
-It was a great experience — we worked under pressure, collaborated across roles, and improved our problem-solving and critical thinking skills.
-That hackathon really helped me apply my technical knowledge in a creative, time-bound environment.
-
-(Start – Warm introduction)
-Good morning everyone, I’m Anuj Mahajan, Analyst in the GBIT–ISPL–Credits team, working on the MCA module, which stands for MyCreditApp.
-Today, I’ll be sharing my project experience on the Request & Decision workflow, what the application does, my role in testing, and a small real-world use case to explain how it all comes together.
+(Start – 30–40 sec)
+“Let me walk you through my project experience on MyCreditApp – the Request Module at BNP Paribas.
+This module is used globally to create, structure, and decide on corporate credit requests.
+It involves multiple user roles —
+the Credit Analyst, who creates and structures the request;
+the Relationship Manager, who validates compliance;
+the Senior Credit Officer or Delegation Holder, who takes the final credit decision;
+and the Middle Office (CTM), which updates all approved data in downstream systems like contracts and records.
+In short, it’s the digital workflow for corporate credit approvals.”
 
 ⸻
 
-(1) What is MyCreditApp?
-MyCreditApp is an internal BNP Paribas application used across 50+ countries for managing corporate credit requests.
-It’s a central platform where different teams collaborate to create, structure, validate, and approve corporate loan proposals.
-In short, it helps standardize how BNP processes credit decisions globally — ensuring accuracy, compliance, and efficiency.
+(Testing Strategy – ~1 min)
+“Our main goal in testing this module is to make the process faster, more reliable, and easier to maintain.
+Initially, most tests are manual, which makes each release cycle lengthy and repetitive.
+So our current testing strategy focuses on five key areas:
+	1.	Optimizing manual test cases – by removing duplicates and rewriting steps for better clarity.
+	2.	Executing Sanity and NRT tests – Sanity Testing helps verify that major functions work after every deployment, while NRT or Non-Regression Testing ensures older features still perform correctly after new changes.
+	3.	Integrating Playwright automation – Playwright is a web automation framework that simulates real user actions on browsers to speed up repetitive testing.
+	4.	Streamlining documentation – keeping all workflows, test cases, and reports organized and updated.
+	5.	Tracking everything via Jira and Excel – Jira helps log defects, assign tasks, and track sprint progress, while Excel is used for execution summaries and defect analysis.
+
+The purpose of this strategy is to improve accuracy, reduce testing time, and make our releases more predictable.”
+
+(Understanding the Requirement – 45 sec)
+“My first contribution was studying how the credit workflow operates end-to-end.
+I analyzed how each user role interacts with the system and what business logic lies behind every screen.
+This helped ensure that the test scenarios I worked on aligned with the real business flow, not just the UI.
+Understanding this context early on helped us identify what truly needed validation during testing.”
 
 ⸻
 
-(2) The Workflow – How it Works
-The module I worked on is called Request & Decision.
-Here’s how it flows:
-	•	The Credit Analyst (CA) creates and structures the credit proposal.
-	•	The Relationship Manager (RM) reviews it and ensures it meets compliance.
-	•	The Senior Credit Officer (SCO) or Delegation Holder (DH) provides the final decision — approve, reject, or return for more info.
-	•	Finally, the Middle Office (CTM) updates the decided data in downstream systems and closes the request.
-
-Every stage is tracked, logged, and linked — ensuring end-to-end traceability.
+(Test Scenario Design – 45 sec)
+“Next came Test Scenario Design.
+I helped create modular, well-structured test cases for request creation and approval.
+A modular approach means each test focuses on a single function, so it’s easier to reuse and maintain.
+We also worked on optimizing existing cases to remove redundancies.
+This directly improved the speed and clarity of our Non-Regression Testing cycles.”
 
 ⸻
 
-(3) Use Case Example – Credit Request for ABC Industries
-Let’s take a simple example to understand this better.
-
-Suppose ABC Industries, one of our corporate clients, requests an increase in their working capital credit limit.
-	1.	The Credit Analyst logs into MyCreditApp, fills out all details like company name, amount, exposure, and collateral.
-	2.	The Relationship Manager receives it for review and validates if all compliance checks are passed.
-	3.	The Senior Credit Officer evaluates the proposal and decides whether to approve or reject.
-	4.	Once approved, the Middle Office records the decision in the downstream system and closes the request.
-
-Now, as a tester, my role was to ensure this exact flow works smoothly — that the data entered at one stage correctly reflects in the next, that user permissions are respected, and that the request lifecycle is consistent from creation to closure.
+(Automation Exposure – 50 sec)
+“I also got exposure to Automation using Playwright along with Gherkin syntax.
+Gherkin is a language used in Behavior-Driven Development; it describes test scenarios in plain English using the ‘Given–When–Then’ format.
+For example:
+‘Given the user is on the Request Dashboard, When they submit details, Then the request is created.’
+Even though I wasn’t directly coding the scripts, understanding how Playwright executes these Gherkin scenarios gave me a strong foundation for future automation work.”
 
 ⸻
 
-(4) My Role – Requirement Understanding & Test Design
-To begin, I focused on requirement understanding — studying each user’s responsibility, the request structure, and how decisions impact other systems.
-
-Next, I worked on test design — breaking large workflows into modular test cases.
-Each case verified small but critical pieces, like request creation, field validations, approval transitions, and decision outcomes.
-
-⸻
-
-(5) Automation with Playwright & Gherkin
-After manual validation, I automated major flows using Playwright.
-Playwright helped us simulate real user actions like login, data entry, and submission, which reduced manual effort and improved accuracy.
-
-We also used Gherkin language for scenario clarity. For example:
-
-
-Scenario: Create and Submit Credit Request
-  Given user logs into MyCreditApp
-  When user fills credit details and submits
-  Then request should be successfully created
-
-
-This format made it easy to communicate test steps with both developers and business teams.
+(NRT Execution & Reporting – 45 sec)
+“I was also responsible for executing Non-Regression Tests after each release.
+We validated that all previously working features still behaved as expected.
+Any issues found were logged in Jira, assigned to developers, and tracked until resolution.
+Finally, I summarized all execution results, coverage, and defects in Excel reports for our testing dashboard.”
 
 ⸻
 
-(6) NRT Execution & Reporting
-We then moved to NRT — Non-Regression Testing, which means ensuring new updates don’t break existing functionalities.
-We ran test suites, logged results in JIRA, and summarized outcomes in Excel dashboards for management review.
-This helped maintain stability across multiple releases.
+(Challenges & Solutions – 50 sec)
+“One of our key challenges was managing a very large set of manual test cases, many of which were outdated or overlapping.
+Another was incomplete documentation that made onboarding and reporting slower.
+To solve this, I helped reorganize the test repository, updated steps to match the current build, and added proper traceability in Jira.
+We also identified which test cases were suitable for future automation using Playwright — laying a foundation for faster testing cycles.”
 
 ⸻
 
-(7) Learnings & Outcomes
-This project taught me a lot — technically and professionally.
-	•	I built strong testing and automation skills.
-	•	Understood how financial workflows operate in a global bank.
-	•	Improved collaboration through Agile methodology.
-	•	And most importantly, learned how consistent testing ensures business continuity.
+(Learnings & Impact – 45 sec)
+“This project helped me develop a clear understanding of the entire QA lifecycle — from requirement analysis and test design to execution and reporting.
+I strengthened my skills in SQL for backend validation, Python for scripting logic, and Excel for test analysis.
+I also learned how to think critically about test efficiency and business impact rather than just pass/fail results.
+Overall, my work helped improve testing accuracy, documentation quality, and readiness for automation in upcoming releases.”
 
-As a result, our automation helped reduce manual testing time and improved overall release quality.
-
-Along with testing and reporting, our work relied on a strong tech stack.
-We mainly used Playwright, JavaScript, and SQL — supported by JIRA and Excel for test management and reporting.
-	•	Playwright handled the browser automation — simulating real user actions like logging in, creating a request, and validating approval screens.
-	•	JavaScript was the scripting language we used to write our Playwright test cases.
-	•	SQL came in for backend validation — checking if the data entered in the UI was correctly reflected in the database.
-	•	JIRA helped us manage test cycles, track defects, and plan sprint deliverables.
-	•	And Excel was used for summarizing NRT results and sharing daily execution status with the team.
 ⸻
 
-(End – Wrap Up)
-So, to sum it up — working on MyCreditApp’s Request & Decision module helped me grow from understanding theory in college to applying it in a real corporate environment.
-It was a complete experience — combining technical testing, business understanding, and teamwork.
+(Closing – 20 sec)
+“In summary, my time on the MyCreditApp Request Module gave me hands-on experience in real-world QA processes, exposure to automation tools, and a deeper understanding of how quality assurance drives reliability in financial systems.”
