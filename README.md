@@ -309,6 +309,12 @@ I strengthened my skills in SQL for backend validation, Python for scripting log
 I also learned how to think critically about test efficiency and business impact rather than just pass/fail results.
 Overall, my work helped improve testing accuracy, documentation quality, and readiness for automation in upcoming releases.”
 
+
+Impact on the Project:
+Through my involvement in the Request module testing, I helped streamline manual test execution and improve the structure of test scenarios, making them more reusable and easier to maintain.
+By ensuring consistent sanity and NRT coverage for every release, I contributed to better release stability and early defect detection.
+My documentation updates and tracking via Jira and Excel helped bring more transparency to the testing cycle.
+Overall, my contribution supported a smoother test process, reduced effort duplication, and strengthened the foundation for future automation integration.
 ⸻
 
 (Closing – 20 sec)
