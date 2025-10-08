@@ -319,3 +319,7 @@ Overall, my contribution supported a smoother test process, reduced effort dupli
 
 (Closing – 20 sec)
 “In summary, my time on the MyCreditApp Request Module gave me hands-on experience in real-world QA processes, exposure to automation tools, and a deeper understanding of how quality assurance drives reliability in financial systems.”
+
+
+![image](https://github.com/user-attachments/assets/f8813990-531f-40e4-b89c-7f194305c8df)
+
