@@ -328,21 +328,21 @@ Overall, my contribution supported a smoother test process, reduced effort dupli
 Good afternoon everyone, My name is Anuj Mahajan working as an Analyst at GBIT Corporate credits in MCA project.
 I’ll be sharing my experience and contribution to the Request Module of MyCreditApp.
 
-This module is one of the key parts of the application. It provides all the functionalities required to create, structure, and decide a corporate credit request. It also connects multiple user roles like the Credit Analyst, Relationship Manager, Senior Credit Officer, and the Middle Office to ensure each credit request moves through the right review and approval stages.
+This module is one of the key parts of the application. It provides all the functionalities required to create, structure, and decide a corporate credit request with user roles to ensure each credit request moves through the right review and approval stages.
 
-When I started working on this project, my first step was to understand the entire credit workflow — from how a request is initiated to how it’s reviewed, validated, and finally approved.
-This stage was important because it helped me see how data flows across roles and what checkpoints are crucial for validation. Once I had that clarity, I began translating these functional steps into test scenarios that covered both business logic and user interactions.
+When I started working on this project, my first step was to understand the entire credit workflow — from how a request is initiated, reviewed, validated, and finally approved.
+This stage is important because it helped me see how data flows across roles and what checkpoints are crucial for validation. Once I had that clarity, I began translating these functional steps into test scenarios that covered both business logic and user interactions.
 
-The next step was test case design.
-Here, my focus was on creating modular and reusable test cases that could be easily maintained and scaled for future releases.
-Each test case was written using Gherkin syntax — Given, When, Then — which helped maintain a clear, behavior-driven format. This structure not only improved readability for manual testers but also ensured our test cases were written in a way that could directly support automation later.
+The next step is test case design.
+Here, my focus is on creating modular and reusable test cases that could be easily maintained and scaled for future releases.
+Each test case is written using Gherkin syntax — Given, When, Then — which helped maintain a clear, behavior-driven format. This structure not only improved readability for manual testers but also ensured our test cases are written in a way that could directly support automation later.
 
-Even I made sure that the cases were aligned with Playwright automation standards. For example, I included selector references, action sequences, and expected outcomes in a way that could be easily converted into Playwright steps by the automation team and saved time during automation handoffs.
+Even I made sure that the cases are aligned with Playwright automation standards. For example, I included selector references, action sequences, and expected outcomes in a way that could be easily converted into Playwright steps by the automation team and saved their time during automation.
 
-Once the design was in place, I worked on optimizing existing manual test cases.
+Once the design is in place, I worked on optimizing existing manual test cases.
 Many scenarios were repetitive or overlapping, so I streamlined them, removed duplication, and merged related cases where possible. This improved test coverage while keeping the documentation lean and effective.
 
-During every sprint and release, I was actively involved in executing Non-Regression Tests and Sanity checks.
+During every sprint and release, I am actively involve in executing Non-Regression Tests and Sanity checks.
 Each cycle involved validating critical functionalities, logging defects in JIRA, and maintaining detailed reports in Excel for analysis and traceability.
 These reports helped the team identify recurring issues and track how fixes were performing across builds.
 
