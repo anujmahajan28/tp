@@ -359,7 +359,7 @@ Analytically, I learned how to think beyond pass/fail — to look at why an issu
 Working on this module also taught me the value of collaboration. I regularly interacted with developers, automation testers, and product owners to clarify requirements and align priorities. These discussions helped improve our understanding of dependencies and reduced turnaround time during defect resolution.The experience really helped me grow as a tester.
 
 
-Overall, working on the Request Module gave me a strong sense of ownership and helped me contribute meaningfully to improving the quality and reliability of MyCreditApp’s credit request process. More importantly, it taught me how thoughtful planning and teamwork can make testing not just a checkpoint, but a reliable part of the delivery process.
+And I feel the sense of ownership and helped me contribute meaningfully to improving the quality and reliability of MyCreditApp’s credit request process. More importantly, it taught me how thoughtful planning and teamwork can make testing not just a checkpoint, but a reliable part of the delivery process.
 
 Thank you.
 
