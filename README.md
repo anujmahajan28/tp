@@ -356,13 +356,10 @@ Through this project, I got to strengthen both my technical and analytical skill
 Technically, I worked with tools like Python, SQL, JavaScript, JIRA, and Excel, and learned how they fit into the QA workflow.
 Analytically, I learned how to think beyond pass/fail — to look at why an issue happens, how it affects downstream processes, and how to prevent it in the future.
 
-Working on this module also taught me the value of collaboration. I regularly interacted with developers, automation testers, and product owners to clarify requirements and align priorities. These discussions helped improve our understanding of dependencies and reduced turnaround time during defect resolution.
+Working on this module also taught me the value of collaboration. I regularly interacted with developers, automation testers, and product owners to clarify requirements and align priorities. These discussions helped improve our understanding of dependencies and reduced turnaround time during defect resolution.The experience really helped me grow as a tester.
 
-Looking back, this experience really helped me grow as a tester.
-I became more confident in designing structured, automation-ready test cases, managing test execution efficiently, and ensuring higher accuracy with each release.
-More importantly, it taught me how thoughtful planning and teamwork can make testing not just a checkpoint, but a reliable part of the delivery process.
 
-Overall, working on the Request Module gave me a strong sense of ownership and helped me contribute meaningfully to improving the quality and reliability of MyCreditApp’s credit request process.
+Overall, working on the Request Module gave me a strong sense of ownership and helped me contribute meaningfully to improving the quality and reliability of MyCreditApp’s credit request process. More importantly, it taught me how thoughtful planning and teamwork can make testing not just a checkpoint, but a reliable part of the delivery process.
 
 Thank you.
 
