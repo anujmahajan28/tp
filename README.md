@@ -364,3 +364,33 @@ And I feel the sense of ownership and helped me contribute meaningfully to impro
 Thank you.
 
 We have one person who also has similar experience, so I would like to hand it over to Vishakha to take it further.
+
+
+Hello everyone,
+My name is Anuj Mahajan, and I am working as a Test Analyst at Banking Platform IT Corporate Credits for the MyCreditApp application. I’ll be sharing my experience and contribution to the Request Module of MyCreditApp.
+
+The purpose of the “Request to Decision” module is to retrieve all the requests that have been created or validated for all coverage and business lines originating sites. It covers end-to-end workflow from request creation to decisions from a credit committee. The legal entities and facilities will have their own data journey with data coming from referential (current), input by the analysts (proposed), and input by decision makers (recommended / decided). And the decided data will be fed to other systems after final decision.
+
+When I started working on this project, my first step was to understand the entire MyCreditApp workflow. Once I had that clarity, I began translating these functional steps into test scenarios that covered both business logic and user interactions.
+
+The next step is test case design. Here, my focus is on creating modular and reusable test cases that could be easily maintained and scaled for future releases. Each test case is written using Gherkin syntax — Given, When, Then — which helped maintain a clear, behavior-driven format. This structure not only improved readability and maintainability but also made it easily understandable by automation testers.
+
+I even made sure that the cases are aligned with automation standards. For example, I included selector references, action sequences, and expected outcomes in a way that could be easily converted into steps by the automation team and saved their time during automation.
+
+Once the design is in place, I work on optimizing existing manual test cases. Many scenarios were repetitive or overlapping, so I streamlined them, removed duplication, and merged related cases where possible. This improved test coverage while keeping the documentation lean and effective.
+
+I am actively involved in the NRT cycle, validating critical functionalities, logging defects in JIRA, and maintaining detailed reports in Excel for analysis and traceability. These reports helped the team identify blocker or critical issues and track how fixes were performed across builds.
+
+Alongside this, I also contributed to streamlining the documentation process. We structured the repository in a way that anyone new joining the project could quickly understand the test flow, business logic, and execution order. This made our testing process faster and more consistent, especially during tight release timelines.
+
+One thing I particularly enjoyed was how closely this work connected testing with business understanding. Every test scenario reflected an actual use case from the credit lifecycle. It wasn’t just about clicking through screens — it was about ensuring that every approval, validation, and decision aligned with business rules and data accuracy.
+
+Through this project, I have strengthened both my technical and analytical skills.
+Technically, I worked with tools like Python, SQL, JavaScript, JIRA, and Excel, and learned how they fit into the QA workflow. Analytically, I learned how to think beyond pass/fail — to look at why an issue happens, how it affects downstream processes, and how to prevent it in the future.
+
+Working on this module also taught me the value of collaboration. I regularly interacted with developers, automation testers, and product owners to clarify requirements and align priorities. These discussions helped improve our understanding of dependencies and reduced turnaround time during defect resolution. The experience really helped me grow as a tester.
+
+And I feel the sense of ownership and helped me contribute meaningfully to improving the quality and reliability of MyCreditApp’s credit request process. More importantly, it taught me how thoughtful planning and teamwork can make testing not just a checkpoint, but a reliable part of the delivery process.
+
+Thank you.
+We have one person who also has a similar experience, so I would like to hand it over to Vishakha to take it further.
