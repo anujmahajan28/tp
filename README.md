@@ -1,3 +1,5 @@
+Yesterday, I worked further on the design part and shared some cases with Taher for review. I also reviewed the folder and worked on the NRT part in both UAT and China environments. Today, I’ll continue with the same tasks and review any feedback or changes that come up.
+
 This video, "JavaScript Functions Crash Course" by freeCodeCamp.org, is 1 hour, 36 minutes, and 54 seconds long. It covers a comprehensive range of JavaScript function topics, from fundamentals to advanced concepts like closures and recursion.
 Here's a suggested plan to finish the video in 2 days:
 Day 1: Fundamentals and Core Concepts (Approx. 48 minutes of video)
