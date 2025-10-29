@@ -1,3 +1,7 @@
+Hi Ashish, good morning.
+i have not been feeling well for the past few days due to viral, so I have a doctor’s appointment around 10:30 AM today.
+Is it okay if I step out for a while and log back in by 11:15 AM?
+
 कालः अपि प्रतिकूलगमनं आरब्धवान्!”
 (Even time has started moving in the opposite direction!
 
