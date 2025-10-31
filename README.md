@@ -1,4 +1,24 @@
-SELECT 
+Subject: Update on Test Case Slicing and Current Challenges
+
+Hi Ashish,
+
+I wanted to share a quick update regarding the test case slicing activity and the challenges I’m currently facing:
+	•	While working on the test case slicing, I observed that there are additional possible scenarios that need to be covered to ensure complete analysis.
+	•	I am rechecking the entire flow to confirm that all cases, including availability and mandatory fields, are properly captured.
+	•	For better clarity, I’m also adding tables in the description section to give a detailed view of each page, which helps in easy understanding and verification.
+	•	The test cases were returned to me mainly because a few business rules and variations were not fully aligned or clearly defined in the Gherkins.
+	•	I am now aligning all scenarios with the business rules and ensuring the Gherkins are written properly.
+	•	I’m continuously taking reviews and suggestions from Taher, who is helping me identify missing parts and improve the structure.
+	•	I’m focusing on being more accurate, positive, and detail-oriented while implementing these changes to make the test cases comprehensive and clear.
+
+Please let me know if there’s anything specific you’d like me to focus more on.
+
+Thanks & Regards,
+[Your Name]
+
+
+SELECT
+
     R.REQUEST_ID,
     R.STATUS,
     COUNT(CPV.VERSION_TYPE) AS TOTAL_VERSIONS,
