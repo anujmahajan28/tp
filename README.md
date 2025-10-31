@@ -1,5 +1,6 @@
 Subject: Update on Test Case Slicing and Current Challenges
 
+Since I am new to the Contract world, I’m spending some more time to collect and understand all the business rules, but you will see good progress from my end going forward.
 Hi Ashish,
 
 I wanted to share a quick update regarding the test case slicing activity and the challenges I’m currently facing:
