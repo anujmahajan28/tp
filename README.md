@@ -1,3 +1,11 @@
+Les Trois du On-Verra-Demain – more like a title, playful and punchy
+	2.	Les Trois de la PLS – “The Three in Panic Mode” (already iconic)
+	3.	Les Trois du Chaos Total – “The Three of Total Chaos”
+	4.	Les Trois de la Flemme – “The Three of Laziness”
+	5.	Les Trois du “Pas Pressé” – “The Three of ‘No Rush’”
+	6.	Les Trois du Bordel Organisé – “The Three of Organized Mess”
+	7.	Les Trois du Bug Éternel – “The Three of the Eternal Bug”
+
 Subject: Update on Test Case Slicing and Current Challenges
 
 Since I am new to the Contract world, I’m spending some more time to collect and understand all the business rules, but you will see good progress from my end going forward.
