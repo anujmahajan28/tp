@@ -1,15 +1,16 @@
-Subject: Clarification on Overdue Status for “Personal Data Protection Awareness” Training
+Subject: Sanity Completion Update and Query on Pending Events
 
-Hi [Manager’s Name],
+Hi Melben,
 
-I wanted to bring to your attention that the “Personal Data Protection Awareness” training is showing as overdue, with a due date of 15 July 2025.
+I’ve completed the sanity testing for the assigned workflow. While testing end-to-end, I initially got stuck at one point but managed to resolve it after exploring some dependencies. I believe with more practice, I’ll get a better understanding of the flow.
 
-However, this training was assigned to me after my internalisation (post 28 August 2025), and I completed it on the same day it was assigned (31 August 2025). I also received a confirmation mail from My Learning on 31 August 2025 at 11:34 AM regarding my registration for this training.
+I just have one small query regarding the “pending events” — the same one we discussed during the call. Could you please confirm the actual rule or logic for this?
 
-It seems the overdue status is due to the system reflecting the earlier due date. Request you to please help review this or advise on the next steps to get it corrected.
+Attaching the file for your reference.
 
-Thanks and regards,
+Thanks & Regards,
 Anuj Mahajan
+
 
 
 Les Trois du On-Verra-Demain – more like a title, playful and punchy
