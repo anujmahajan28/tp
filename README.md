@@ -1,3 +1,17 @@
+Subject: Clarification on Overdue Status for “Personal Data Protection Awareness” Training
+
+Hi [Manager’s Name],
+
+I wanted to bring to your attention that the “Personal Data Protection Awareness” training is showing as overdue, with a due date of 15 July 2025.
+
+However, this training was assigned to me after my internalisation (post 28 August 2025), and I completed it on the same day it was assigned (31 August 2025). I also received a confirmation mail from My Learning on 31 August 2025 at 11:34 AM regarding my registration for this training.
+
+It seems the overdue status is due to the system reflecting the earlier due date. Request you to please help review this or advise on the next steps to get it corrected.
+
+Thanks and regards,
+Anuj Mahajan
+
+
 Les Trois du On-Verra-Demain – more like a title, playful and punchy
 	2.	Les Trois de la PLS – “The Three in Panic Mode” (already iconic)
 	3.	Les Trois du Chaos Total – “The Three of Total Chaos”
