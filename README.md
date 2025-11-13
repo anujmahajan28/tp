@@ -1,3 +1,7 @@
+Hi team, I’ll be away for the next hour for an in-person meeting.
+
+Thanks!
+
 Subject: Sanity Completion Update and Query on Pending Events
 
 Hi Melben,
