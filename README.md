@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f932b2ce-77b8-4de4-b7f2-89275b98a9e7)
+
+
 Hi team, I’ll be away for the next hour for an in-person meeting.
 
 Thanks!
