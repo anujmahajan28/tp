@@ -1,3 +1,14 @@
+Hi [Manager’s Name],
+
+I hope you’re doing well.
+
+I would like to request leave from 2nd February to 6th February 2025. I will plan my tasks accordingly and ensure proper handover so that work continues smoothly during my absence.
+
+Please let me know if this works for you or if you need anything further from my side.
+
+Thanks and regards,  
+Anuj
+
 ![image](https://github.com/user-attachments/assets/f932b2ce-77b8-4de4-b7f2-89275b98a9e7)
 
 
