@@ -1,3 +1,15 @@
+Issue:
+Validation error message for SU GRR overlaps with the Penalty field.
+
+Details:
+When an invalid (negative) value is entered in the SU GRR field, the validation error message is displayed in a way that collides/overlaps with the Penalty field below, affecting layout and readability.
+
+Expected:
+The error message should be displayed with proper spacing and alignment, without overlapping or colliding with the Penalty field.
+
+Impact:
+UI overlap makes the form difficult to read and may confuse users while correcting input values.
+
 Hi [Manager’s Name],
 
 I hope you’re doing well.
