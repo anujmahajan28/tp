@@ -1,3 +1,14 @@
+Hi [Manager Name],
+
+On Friday, we performed the weekly sanity for Mirage, and I also tested a few tickets related to Mirage.
+
+For the slicing part, I had a review with Taher, and based on the discussion, I continued working on the cases. Currently, three cases are ready for quality review, and one new case has been added. If possible, I plan to connect with Taher today for a further review.
+
+Please let me know if you need any additional details.
+
+Best regards,  
+Anuj
+
 Issue:
 Validation error message for SU GRR overlaps with the Penalty field.
 
