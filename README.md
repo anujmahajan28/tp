@@ -1,4 +1,4 @@
- team, on Friday I worked on a few functional tickets for testing and also performed the weekly sanity for Deal Origination. For slicing, I received comments from Lilia and, based on the latest feedback, I’m updating all my cases. On Friday, two more cases were moved to Mickael’s bucket, and one came back to me as Lilia suggested adding a limit on the name. I’ll discuss this with the team today and update her accordingly.
+Hi team, coming to my status, I’m proceeding with the slicing work for automation. I also tested ticket 89936 and am writing the test coverage cases for it. I’ll update Yash and Caio once that’s done. Also, Christophe, I’ll be on leave from 2nd to 6th Feb, which is the full next week.
 
 Hi [Manager Name],
 
