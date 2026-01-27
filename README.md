@@ -1,3 +1,5 @@
+ team, on Friday I worked on a few functional tickets for testing and also performed the weekly sanity for Deal Origination. For slicing, I received comments from Lilia and, based on the latest feedback, I’m updating all my cases. On Friday, two more cases were moved to Mickael’s bucket, and one came back to me as Lilia suggested adding a limit on the name. I’ll discuss this with the team today and update her accordingly.
+
 Hi [Manager Name],
 
 On Friday, we performed the weekly sanity for Mirage, and I also tested a few tickets related to Mirage.
