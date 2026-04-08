@@ -1,3 +1,5 @@
+My journey at BNP Paribas has been truly enriching and full of continuous learning. Starting with a hackathon that led to my internship, I’ve had the chance to collaborate with diverse teams and grow both professionally and personally. What excites me most is being part of an environment where ideas are valued and turned into real impact.
+
 Hi team, coming to my status, I’m proceeding with the slicing work for automation. I also tested ticket 89936 and am writing the test coverage cases for it. I’ll update Yash and Caio once that’s done. Also, Christophe, I’ll be on leave from 2nd to 6th Feb, which is the full next week.
 
 Hi [Manager Name],
