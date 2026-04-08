@@ -83,7 +83,9 @@ Please let me know if there’s anything specific you’d like me to focus more 
 Thanks & Regards,
 [Your Name]
 
+Being part of BNP Paribas has been an enriching experience where I’ve grown both technically and professionally. From working on real-time projects to collaborating with experienced teams, every day brings something new to learn. The culture of ownership and continuous improvement really stands out. I’m especially excited by the opportunity to turn complex data into impactful solutions.
 
+My journey at BNP Paribas has been truly enriching, filled with continuous learning and meaningful experiences. I’ve had the opportunity to work on impactful initiatives, collaborate with diverse teams, and grow both professionally and personally. The culture of support, innovation, and ownership makes every day engaging. What excites me most is being part of an environment where ideas are valued and translated into real impact.
 SELECT
 
     R.REQUEST_ID,
