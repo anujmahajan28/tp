@@ -1,3 +1,6 @@
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/ca933404-c53a-470c-98fc-89487d2be1f6" />
+
+
 Wish 1:
 “Simulation should run smoothly — no crashes, no data mismatch.”
 
