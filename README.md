@@ -1,4 +1,11 @@
-<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/ca933404-c53a-470c-98fc-89487d2be1f6" />
+![Uploading image.png…]()
+
+
+![Uploading image.png…]()
+
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/dd8a9f0b-18fe-462b-87af-2fb881d89460" />
+
 
 
 Wish 1:
