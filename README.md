@@ -1,4 +1,8 @@
-<img width="2304" height="1536" alt="image" src="https://github.com/user-attachments/assets/6858a23e-3759-4a68-9cc0-9c3f560a9065" />
+Hi Lilia, I’m happy to share that I received the Rising Star Award! 😊 Thank you for all your guidance and support. I’ve learned so much from you, and your help has played a big part in my journey.
+
+<
+	
+	 width="2304" height="1536" alt="image" src="https://github.com/user-attachments/assets/6858a23e-3759-4a68-9cc0-9c3f560a9065" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d095b18-0955-4b84-8226-96f036b5926e" />
 
 
